@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shop:shop-quartz:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shop/shop-quartz/unknown/shop-quartz-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shop/shop-quartz/unknown/shop-quartz-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shop/shop-quartz/unknown/shop-quartz-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

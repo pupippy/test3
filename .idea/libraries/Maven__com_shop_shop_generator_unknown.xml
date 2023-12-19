@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shop:shop-generator:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shop/shop-generator/unknown/shop-generator-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shop/shop-generator/unknown/shop-generator-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shop/shop-generator/unknown/shop-generator-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

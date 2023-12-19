@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ShopMange/ruoyi-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/ruoyi-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/ruoyi-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/ruoyi-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/ruoyi-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/ruoyi-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/ruoyi-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/ruoyi-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/ruoyi-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/ruoyi-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/ruoyi-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/ruoyi-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/shop-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/shop-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/shop-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/shop-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/shop-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/shop-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/shop-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/shop-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/shop-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/shop-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/shop-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/shop-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShopMange/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
